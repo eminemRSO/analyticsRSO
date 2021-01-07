@@ -1,4 +1,4 @@
-package me.eminem.katalogRSO;
+package me.eminem.analyticsRSO;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

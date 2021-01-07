@@ -1,4 +1,4 @@
-package me.eminem.katalogRSO;
+package me.eminem.analyticsRSO;
 
 import javax.persistence.*;
 
